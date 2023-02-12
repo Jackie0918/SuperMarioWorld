@@ -32,8 +32,6 @@ namespace SuperMarioWorld.SuperMarioU.Characters
                     // 其他狀況
                     break;
             }
-
-            Console.WriteLine("Moving ...");
         }
     }
 }
