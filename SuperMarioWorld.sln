@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarioU", "SuperMarioU\SuperMarioU.csproj", "{BC48CB63-FDE1-4769-9E0D-AA572CF0701C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioKart", "MarioKart\MarioKart.csproj", "{A55050CB-3ACA-4318-80B9-C981F91A390E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC48CB63-FDE1-4769-9E0D-AA572CF0701C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC48CB63-FDE1-4769-9E0D-AA572CF0701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC48CB63-FDE1-4769-9E0D-AA572CF0701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC48CB63-FDE1-4769-9E0D-AA572CF0701C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55050CB-3ACA-4318-80B9-C981F91A390E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55050CB-3ACA-4318-80B9-C981F91A390E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55050CB-3ACA-4318-80B9-C981F91A390E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55050CB-3ACA-4318-80B9-C981F91A390E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2E9576-C400-4A02-B2FD-9E17027D9852}
+	EndGlobalSection
+EndGlobal
